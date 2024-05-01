@@ -1,0 +1,10 @@
+src
+test
+.github
+.fatherrc.ts
+.gitignore
+.npmignore
+.prettierignore
+.prettierrc.json
+tsconfig.json
+eslint.config.js
