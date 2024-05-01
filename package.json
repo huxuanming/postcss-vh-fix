@@ -1,6 +1,6 @@
 {
   "name": "postcss-vh-fix",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The postcss plugin is used to fix the incorrect display of some browser vh units",
   "main": "dist/index.js",
   "module": "dist/index.js",
