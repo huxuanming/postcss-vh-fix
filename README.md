@@ -50,7 +50,7 @@ If you already use PostCSS, add the plugin to plugins list:
 ```diff
 module.exports = {
   plugins: [
-+   require('postcss-viewport-height-patch'),
++   require('postcss-vh-fix'),
     require('autoprefixer')
   ]
 }
